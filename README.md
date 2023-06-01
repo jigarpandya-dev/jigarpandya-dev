@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jigarpandyadev.gatsbyjs.io/](https://jigarpandyadev.gatsbyjs.io/)
 
-- 📝 I regularly write articles on [https://www.avgdeveloper.blogspot.in](https://www.avgdeveloper.blogspot.in)
-
 - 📫 How to reach me **jigarpandya.dev@gmail.com**
 
 - ⚡ Hobbies **Apart from coding, I enjoy wildlife photography in leisure time**
